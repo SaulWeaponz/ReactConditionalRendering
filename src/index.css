@@ -36,7 +36,7 @@ button{
   margin: 8px;
   border: none;
   cursor: pointer;
-  width: 100%;
+  width: 80%;
   opacity: 0.9;
 }
 button:hover{
@@ -49,6 +49,7 @@ button:hover{
 .cancelbtn, .signupbtn{
   float: left;
   width: 50%;
+  margin: auto;
 }
 .container{
   padding: 16px;
